@@ -1,7 +1,5 @@
 <#
 .NOTES
-   Author      : Chris Titus @christitustech
-   GitHub      : https://github.com/ChrisTitusTech
     Version 0.0.1
 #>
 
